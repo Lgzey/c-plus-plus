@@ -1,0 +1,30 @@
+Without naming specifics
+
+1) Learn the winapi really fucking well
+
+2) Some sort of hooking library
+
+3) Some sort of drawing, maybe dx, maybe opengl
+
+4) Some sort of gui lib
+
+5) Some sort of scripting, python, maybe js, lua (barf), or get good at terminal stuff
+
+Bonus points:
+
+1) code emulation frameworks, i like unicorn
+
+2) disassembler framework, i like capstone
+
+3) assembler tooling, i use online stuff http://shell-storm.org/online/Online...-Disassembler/ and https://defuse.ca/online-x86-assembler.htm
+
+This assumes C/C++ specifically for game hacking. There's a whole page i could list for general reverse engineering.
+
+That should be enough for you to be proficient. Those are your categories to check box
+
+__________________
+
+There are 10 kinds of people in this world, those who understand binary, and those who don't
+
+I'll contribute, so I'll expect the same from you
+
